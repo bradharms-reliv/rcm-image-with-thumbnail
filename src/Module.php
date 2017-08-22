@@ -1,19 +1,5 @@
 <?php
 
-/**
- * Module Config For ZF2
- *
- * PHP version 5.3
- *
- * LICENSE: No License yet
- *
- * @category  Reliv
- * @author    Rod McNew <rmcnew@relivinc.com>
- * @copyright 2012 Reliv International
- * @license   http://www.nolicense.com None
- * @version   GIT: <git_id>
- */
-
 namespace RcmImageWithThumbnails;
 
 /**
